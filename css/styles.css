@@ -118,7 +118,7 @@ img {
 .contacts-link:focus {
   color: #404bbf;
 }
-.nav-link .active {
+.active {
   color: #404bbf;
 }
 /*-----hero section 1------*/
@@ -258,12 +258,8 @@ img {
   border-radius: 0 0 4px 4px;
   box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
     0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
-  background: #fff;
+  background: #ffffff;
   width: calc((100% - 72px) / 4);
-
-  box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
-    0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
-  background-color: #ffffff;
 }
 .team-list {
 }
@@ -427,7 +423,7 @@ img {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #ffffff;
+  color: #f4f4fd;
   max-width: 264px;
   margin-bottom: 16px;
 }
